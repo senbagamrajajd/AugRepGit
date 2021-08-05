@@ -1,2 +1,2 @@
 print("Hello World")
-Print("Best Wishes")
+Print("Best Wishes...! Good Luck")
